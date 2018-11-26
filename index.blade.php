@@ -34,7 +34,7 @@
 								</h3>
 								<div class="entry-meta">
 									<span class="entry-meta-item penci-amp-byline">
-										<i class="fa fa-user"></i> 
+										<i class="fa fa-user"></i>
 										<span class="author vcard author_name post-author">
 											<a class="url fn n" href="{{-- $row->author_url --}}">{{-- user name --}}</a>
 										</span>
@@ -48,9 +48,9 @@
 									</span>
 									<span class="entry-meta-item penci-comment-count">
 										<a href="{{ $p->url }}#comments">
-											<i class="fa fa-comment-o"></i>1,609 
+											<i class="fa fa-comment-o"></i>1,609
 										</a>
-									</span>						
+									</span>
 								</div>
 								<div class="post-excerpt1">
 									<p>{{ $p->sub_title }}</p>
@@ -88,9 +88,9 @@
 					--}}
 					<div class="footer__copyright_menu">
 						<p>
-						
-							Powered by <a href="#" target="_blank"></a>		
-						
+
+							Powered by <a href="#" target="_blank"></a>
+
 						</p>
 						<a href="#top" class="back-to-top">Back To Top<i class="fa  fa-long-arrow-up"></i></a>
 					</div>
