@@ -1,5 +1,5 @@
 <div class="penci-amp-pagination">
-{{ $posts->links() }}
+{{ $rows->links() }}
 </div>
 <div class="penci-amp-pagination">
 	<nav class="navigation pagination" role="navigation">
