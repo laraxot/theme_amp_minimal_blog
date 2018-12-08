@@ -4,6 +4,6 @@
 		<a href="http://pennews.pencidesign.com/amp" class="branding  penci-amp-site-icon image-logo ">
 			<amp-img src="http://max.pennews.pencidesign.com/wp-content/uploads/2017/11/cropped-logo.png" alt="PenNews - The Best News &amp; Magazine WordPress Themes" height="50" width="231"></amp-img>
 		</a>
-		<a href="http://pennews.pencidesign.com/amp/?s" class="navbar-search"><i class="fa fa-search" aria-hidden="true"></i></a>
+		<a href="{{ url('it/article/search') }}" class="navbar-search"><i class="fa fa-search" aria-hidden="true"></i></a>
 	</div>
 </header>
